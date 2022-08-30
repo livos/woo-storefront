@@ -38,8 +38,8 @@ function App() {
         <Route path="*">
           <Error />
         </Route>
-        <Footer />
       </Switch>
+      <Footer />
     </Router>
   );
 }
